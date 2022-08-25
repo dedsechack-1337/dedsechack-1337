@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **OSCP**
 
-- 📫 How to reach me **amitroy9091988431@gmail.com**
+- 📫 How to reach me **https://www.instagram.com/ar_production_edm/**
 
 - ⚡ Fun fact **hack the world**
 
