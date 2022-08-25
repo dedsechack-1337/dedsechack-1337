@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/44dc1f47393655.58823b49e737b.gif)]
-<h1 align="center">Hi 👋, I'm Amit Roy</h1>
+<h1 align="center">Hi 👋, I'm DEDSEC</h1>
 <h3 align="center">Ethical Hacker from Null</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cf/f5/58/cff558811531dfbdb74e3f2b93b9ebde.gif">
 
