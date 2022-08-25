@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedsechack-1337&label=Profile%20views&color=0e75b6&style=flat" alt="dedsechack-1337" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/amitroy36301093" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/amitroy36301093?logo=twitter&style=for-the-badge" alt="https://twitter.com/amitroy36301093" /></a> </p>
 
 - Null_sec **make A dedsec OS**
 
