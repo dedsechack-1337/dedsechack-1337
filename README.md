@@ -1,6 +1,6 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/44dc1f47393655.58823b49e737b.gif)
 <h1 align="center">Hi 👋, I'm DEDSEC</h1>
-<h3 align="center">Ethical Hacker from Null</h3>
+<h3 align="center">Penetration tester from Nu11_S3c</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cf/f5/58/cff558811531dfbdb74e3f2b93b9ebde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dedsechack-1337&label=Profile%20views&color=0e75b6&style=flat" alt="dedsechack-1337" /> </p>
