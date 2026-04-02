@@ -28,10 +28,3 @@
   <a href="https://rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vhv.rs/dpng/d/23-237092_rust-programming-language-logo-hd-png-download.png" alt="android" width="40" height="40"/> </a>
   <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-plain-wordmark.svg" alt="android" width="40" height="40"/> </a>
   
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dedsechack-1337&show_icons=true&locale=en&layout=compact" alt="dedsechack-1337" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dedsechack-1337&show_icons=true&locale=en" alt="dedsechack-1337" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dedsechack-1337&" alt="dedsechack-1337" /></p>
