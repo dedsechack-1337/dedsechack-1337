@@ -61,8 +61,8 @@ CEH-certified Ethical Hacker and Cybersecurity Engineer with 1+ years of hands-o
 | 🔥 **[PhoenixSIEM](https://github.com/dedsechack-1337/PhoenixSIEM)** | Self-learning SIEM platform ingesting multi-source logs, detecting anomalies, and cutting SOC alert fatigue with auto-filtered false positives |
 | 🛰️ **[AI-NIDPS (Sentry)](https://github.com/dedsechack-1337/AI-NIDPS)** | AI-powered Network Intrusion Detection System with live packet capture — classifies DoS, DDoS, Port Scan, Brute Force & Botnet traffic via RandomForest/XGBoost/LightGBM/PyTorch |
 | 🦠 **[malware-guardAI](https://github.com/dedsechack-1337/malware-guardAI)** | ML engine that classifies and dissects malicious binaries, delivering automated threat reports |
-| 🎣 **[PhishguardAI](https://github.com/dedsechack-1337/PhishguardAI/network_scanner)** | Real-time phishing URL & email detector using NLP and heuristics to catch zero-day campaigns |
-| 🌐 **[network_scanner](https://github.com/dedsechack-1337)** | Full-featured subnet/host scanner — fingerprints services, detects open ports & OS signatures |
+| 🎣 **[PhishguardAI](https://github.com/dedsechack-1337/PhishguardAI)** | Real-time phishing URL & email detector using NLP and heuristics to catch zero-day campaigns |
+| 🌐 **[network_scanner](https://github.com/dedsechack-1337/network_scanner)** | Full-featured subnet/host scanner — fingerprints services, detects open ports & OS signatures |
 | 📡 **[RFID Cloner](https://github.com/dedsechack-1337/rfid-cloner)** *(Final Year Project)* | Custom-built RFID cloning device (125kHz EM4100 & MIFARE Classic) demonstrating physical access control vulnerabilities |
 
 ---
