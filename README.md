@@ -51,6 +51,8 @@ CEH-certified Ethical Hacker and Cybersecurity Engineer with 1+ years of hands-o
 
 **Domains:** Web App Pentesting (OWASP Top 10) · Network Pentesting · Reverse Engineering · Malware Analysis · Digital Forensics · SOC Operations · Cryptography · Vulnerability Analysis · Social Engineering & OSINT · AI Security · IoT Security · DevSecOps
 
+**Architecture & CS Fundamentals:** Cybersecurity System Architecture · System Design · Network Architecture · Zero-Trust Design · OS Internals (Linux & Windows) · Secure SDLC · DSA & Algorithm Design · Mathematics (Cryptography, AI/ML, DSA)
+
 ---
 
 ### 🚀 Featured Projects
@@ -58,12 +60,12 @@ CEH-certified Ethical Hacker and Cybersecurity Engineer with 1+ years of hands-o
 | Project | Description |
 |---|---|
 | 🕵️ **[soc-copilot](https://github.com/dedsechack-1337/soc-copilot)** | Local-first AI Threat Hunting Assistant — translates natural language into validated Sigma/YARA rules, with RAG-powered MITRE ATT&CK mapping via ChromaDB + Ollama |
-| 🔥 **[PhoenixSIEM](https://github.com/dedsechack-1337/PhoenixSIEM)** | Self-learning SIEM platform ingesting multi-source logs, detecting anomalies, and cutting SOC alert fatigue with auto-filtered false positives |
+| 🔥 **[PhoenixSIEM](https://github.com/dedsechack-1337)** | Self-learning SIEM platform ingesting multi-source logs, detecting anomalies, and cutting SOC alert fatigue with auto-filtered false positives |
 | 🛰️ **[AI-NIDPS (Sentry)](https://github.com/dedsechack-1337/AI-NIDPS)** | AI-powered Network Intrusion Detection System with live packet capture — classifies DoS, DDoS, Port Scan, Brute Force & Botnet traffic via RandomForest/XGBoost/LightGBM/PyTorch |
-| 🦠 **[malware-guardAI](https://github.com/dedsechack-1337/malware-guardAI)** | ML engine that classifies and dissects malicious binaries, delivering automated threat reports |
-| 🎣 **[PhishguardAI](https://github.com/dedsechack-1337/PhishguardAI)** | Real-time phishing URL & email detector using NLP and heuristics to catch zero-day campaigns |
-| 🌐 **[network_scanner](https://github.com/dedsechack-1337/network_scanner)** | Full-featured subnet/host scanner — fingerprints services, detects open ports & OS signatures |
-| 📡 **[RFID Cloner](https://github.com/dedsechack-1337/rfid-cloner)** *(Final Year Project)* | Custom-built RFID cloning device (125kHz EM4100 & MIFARE Classic) demonstrating physical access control vulnerabilities |
+| 🦠 **[malware-guardAI](https://github.com/dedsechack-1337)** | ML engine that classifies and dissects malicious binaries, delivering automated threat reports |
+| 🎣 **[PhishguardAI](https://github.com/dedsechack-1337)** | Real-time phishing URL & email detector using NLP and heuristics to catch zero-day campaigns |
+| 🌐 **[network_scanner](https://github.com/dedsechack-1337)** | Full-featured subnet/host scanner — fingerprints services, detects open ports & OS signatures |
+| 📡 **[RFID Cloner](https://github.com/dedsechack-1337/rfid-cloner)** *(Final Year Project)* | RFID Cloner using Arduino Uno & RC522 Reader Module — reads, analyzes, and clones 13.56MHz (MIFARE) RFID cards to demonstrate access-control vulnerabilities. 📄 [Full Project Report](https://github.com/dedsechack-1337/rfid-cloner/blob/main/RFID_Final_Report.docx) |
 
 ---
 
