@@ -1,8 +1,11 @@
-<h1 align="center">Hi, I'm Amit Roy 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1B4332,50:2D6A4F,100:52B788&height=200&section=header&text=Amit%20Roy&fontSize=55&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20Penetration%20Tester&descSize=20&descAlignY=58" width="100%" alt="Header Banner" />
+</p>
+
 <h3 align="center">Cybersecurity Engineer · Ethical Hacker · Penetration Tester · IoT & AI Security Specialist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D6A4F&center=true&vCenter=true&width=650&lines=CEH-Certified+Ethical+Hacker+%7C+Penetration+Tester;Building+AI-Powered+SOC+%26+Threat+Detection+Tools;IoT+%26+Embedded+Security+Researcher;28%2B+Self-Taught+Programming+Languages" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2D6A4F&center=true&vCenter=true&width=700&lines=CEH-Certified+Ethical+Hacker+%7C+Penetration+Tester;Building+AI-Powered+SOC+%26+Threat+Detection+Tools;IoT+%26+Embedded+Security+Researcher;DSA+%7C+System+Design+%7C+OS+Internals+Enthusiast;28%2B+Self-Taught+Programming+Languages" alt="Typing SVG" />
 </p>
 
 <p align="center">
