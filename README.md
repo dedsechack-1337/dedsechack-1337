@@ -48,7 +48,7 @@ I treat Data Structures & Algorithms as the backbone of good security engineerin
 **Focus areas:** Arrays & Strings · Trees & Graphs (BFS/DFS, Dijkstra, Union-Find) · Dynamic Programming · Heaps & Priority Queues · Hashing · Sliding Window & Two Pointers · Bit Manipulation (heavily used in reverse engineering & crypto)
 
 <p align="center">
-  <img src="https://leetcode-stats-two.vercel.app/api?username=amitroy1337&theme=dark" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/amitroy1337?theme=dark" alt="LeetCode Stats" />
 </p>
 
 **Where it shows up in my security work:**
@@ -143,12 +143,12 @@ $ uname -a && systemctl status security-mindset.service
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dedsechack-1337&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedsechack-1337&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dedsechack-1337&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedsechack-1337&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dedsechack-1337&theme=highcontrast&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
+  <img src="https://streak-stats.demolab.com/?user=dedsechack-1337&theme=highcontrast&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </p>
 
 <p align="center">
