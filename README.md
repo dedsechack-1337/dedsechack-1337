@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=56&fontColor=00FF9C&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20Penetration%20Tester&descSize=19&descAlignY=58&descColor=B7FFDB" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=56&fontColor=00FF9C&fontAlignY=36&animation=fadeIn&Adesc=Cybersecurity%20Engineer%20%7C%20Ethical%20Hacker%20%7C%20Penetration%20Tester&descSize=19&descAlignY=58&descColor=B7FFDB" width="100%" alt="Header Banner" />
 </p>
 
 <h3 align="center">🛡️ Cybersecurity Engineer&nbsp;&nbsp;·&nbsp;&nbsp;💻 DSA &amp; Problem Solver&nbsp;&nbsp;·&nbsp;&nbsp;🏗️ System Design&nbsp;&nbsp;·&nbsp;&nbsp;🐧 OS Internals&nbsp;&nbsp;·&nbsp;&nbsp;📡 IoT &amp; AI Security</h3>
@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn logo" /></a>
   <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://leetcode.com/u/amitroy1337"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://youtube.com/@arproduction8597"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
