@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF9C" /></a>
+  <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://leetcode.com/u/amitroy1337"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://youtube.com/@arproduction8597"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
-  <a href="mailto:amitroy9091988431@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+  <a href="mailto:amitroy9091988431@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
 </p>
 
 ---
@@ -87,25 +87,25 @@ $ uname -a && systemctl status security-mindset.service
 </p>
 
 **Security & Offensive Tools**
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00FF9C)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square&logoColor=00FF9C)
-![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logoColor=00FF9C)
-![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00FF9C)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=flat-square&logo=kalilinux&logoColor=00FF9C)
-![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat-square&logoColor=00FF9C)
-![YARA](https://img.shields.io/badge/YARA%20Rules-000000?style=flat-square&logoColor=00FF9C)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=00FF9C)
+![Metasploit](https://img.shields.io/badge/Metasploit-2C2C2C?style=flat-square&logo=metasploit&logoColor=2596CD)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=flat-square&logo=burpsuite&logoColor=FF6633)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=1679A7)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat-square)
+![YARA](https://img.shields.io/badge/YARA%20Rules-000000?style=flat-square)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=FFFFFF)
 
 **AI / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logoColor=00FF9C)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=00FF9C)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=1C3C3C)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=FFFFFF)
 
 **DSA / System Design / OS**
 ![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat-square&logoColor=00FF9C)
 ![Distributed_Systems](https://img.shields.io/badge/Distributed%20Systems-000000?style=flat-square&logoColor=00FF9C)
-![Linux_Kernel](https://img.shields.io/badge/Linux%20Kernel-000000?style=flat-square&logo=linux&logoColor=00FF9C)
+![Linux_Kernel](https://img.shields.io/badge/Linux%20Kernel-000000?style=flat-square&logo=linux&logoColor=FCC624)
 ![Zero_Trust](https://img.shields.io/badge/Zero--Trust%20Design-000000?style=flat-square&logoColor=00FF9C)
 
 **Domains:** Web App Pentesting (OWASP Top 10) · Network Pentesting · Reverse Engineering · Malware Analysis · Digital Forensics · SOC Operations · Cryptography · Vulnerability Analysis · Social Engineering & OSINT · AI Security · IoT Security · DevSecOps
@@ -136,16 +136,11 @@ $ uname -a && systemctl status security-mindset.service
 ![ISOEH](https://img.shields.io/badge/ISOEH-Ethical%20Hacking%20O%2B-000000?style=flat-square&logoColor=00FF9C)
 ![IBM SkillsBuild](https://img.shields.io/badge/IBM%20SkillsBuild-AI%20%26%20Cloud-000000?style=flat-square&logoColor=00FF9C)
 ![MeitY ISEA](https://img.shields.io/badge/MeitY--ISEA-Cyber%20Hygiene-000000?style=flat-square&logoColor=00FF9C)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025-000000?style=flat-square&logo=tryhackme&logoColor=00FF9C)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025-000000?style=flat-square&logo=tryhackme&logoColor=212C42)
 
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dedsechack-1337&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedsechack-1337&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dedsechack-1337&theme=highcontrast&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
@@ -175,5 +170,5 @@ $ uname -a && systemctl status security-mindset.service
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dedsechack-1337&style=for-the-badge&color=00FF9C&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dedsechack-1337&style=for-the-badge&color=1B4332&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views" />
 </p>
