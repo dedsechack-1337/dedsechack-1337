@@ -9,6 +9,7 @@
 </p>
 
 <p align="center">
+  <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" height="28" alt="LinkedIn logo" /></a>
   <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://leetcode.com/u/amitroy1337"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://youtube.com/@arproduction8597"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
