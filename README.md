@@ -92,8 +92,12 @@ $ uname -a && systemctl status security-mindset.service
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=1679A7)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=flat-square&logo=kalilinux&logoColor=557C94)
+![Parrot Security](https://img.shields.io/badge/Parrot%20Security-000000?style=flat-square&logo=parrotsecurity&logoColor=15E0ED)
 ![Ghidra](https://img.shields.io/badge/Ghidra-000000?style=flat-square)
 ![YARA](https://img.shields.io/badge/YARA%20Rules-000000?style=flat-square)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=flat-square&logo=hashcat&logoColor=FFFFFF)
+![Snort](https://img.shields.io/badge/Snort-000000?style=flat-square&logo=snort&logoColor=F6A7AA)
+![Elastic (ELK Stack)](https://img.shields.io/badge/Elastic%20%28ELK%29-000000?style=flat-square&logo=elastic&logoColor=005571)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=FFFFFF)
 
 **Cloud Security**
@@ -117,7 +121,15 @@ $ uname -a && systemctl status security-mindset.service
 
 **AI / ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=D00000)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=flat-square&logo=numpy&logoColor=013243)
+![pandas](https://img.shields.io/badge/pandas-000000?style=flat-square&logo=pandas&logoColor=150458)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=5C3EE8)
+![spaCy](https://img.shields.io/badge/spaCy-000000?style=flat-square&logo=spacy&logoColor=09A3D5)
+![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter&logoColor=F37626)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=FFFFFF)
 
@@ -141,8 +153,17 @@ $ uname -a && systemctl status security-mindset.service
 **DSA / System Design / OS**
 ![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat-square&logoColor=00FF9C)
 ![Distributed_Systems](https://img.shields.io/badge/Distributed%20Systems-000000?style=flat-square&logoColor=00FF9C)
-![Linux_Kernel](https://img.shields.io/badge/Linux%20Kernel-000000?style=flat-square&logo=linux&logoColor=FCC624)
 ![Zero_Trust](https://img.shields.io/badge/Zero--Trust%20Design-000000?style=flat-square&logoColor=00FF9C)
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=FF4438)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=47A248)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000000?style=flat-square&logo=apachekafka&logoColor=FFFFFF)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=flat-square&logo=rabbitmq&logoColor=FF6600)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=flat-square&logo=graphql&logoColor=E10098)
+![Linux Kernel](https://img.shields.io/badge/Linux%20Kernel-000000?style=flat-square&logo=linux&logoColor=FCC624)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=E95420)
+![Debian](https://img.shields.io/badge/Debian-000000?style=flat-square&logo=debian&logoColor=A81D33)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=archlinux&logoColor=1793D1)
 
 **Domains:** Web App Pentesting (OWASP Top 10) · Network Pentesting · Reverse Engineering · Malware Analysis · Digital Forensics · SOC Operations · Cryptography · Vulnerability Analysis · Social Engineering & OSINT · AI Security · IoT Security · DevSecOps
 
