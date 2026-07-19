@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=56&fontColor=00FF9C&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20DevSecOps%20and%20DevOps%20%7C%20DSA%20%7C%20AIML%20Engineer%20%2F%20Security&descSize=17&descAlignY=58&descColor=B7FFDB" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=56&fontColor=00FF9C&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20DevSecOps%20and%20DevOps%20%7C%20DSA%20%7C%20AIML%20Engineer%20%2F%20Security%20%7C%20IoT%20Security&descSize=15&descAlignY=58&descColor=B7FFDB" width="100%" alt="Header Banner" />
 </p>
 
 <h3 align="center">🛡️ Cybersecurity Engineer&nbsp;&nbsp;·&nbsp;&nbsp;⚙️ DevSecOps/DevOps&nbsp;&nbsp;·&nbsp;&nbsp;💻 DSA &amp; Problem Solver&nbsp;&nbsp;·&nbsp;&nbsp;🤖 AIML Engineer / Security&nbsp;&nbsp;·&nbsp;&nbsp;🏗️ System Design&nbsp;&nbsp;·&nbsp;&nbsp;🐧 OS Internals&nbsp;&nbsp;·&nbsp;&nbsp;📡 IoT &amp; AI Security</h3>
