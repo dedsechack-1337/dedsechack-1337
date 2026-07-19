@@ -219,8 +219,8 @@ $ uname -a && systemctl status security-mindset.service
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dedsechack-1337&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedsechack-1337&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=dedsechack-1337&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dedsechack-1337&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
