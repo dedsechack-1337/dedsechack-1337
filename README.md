@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=56&fontColor=00FF9C&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20DevSecOps%20and%20DevOps%20%7C%20DSA%20%7C%20AIML%20Engineer&descSize=17&descAlignY=58&descColor=B7FFDB" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=56&fontColor=00FF9C&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20DevSecOps%20and%20DevOps%20%7C%20DSA%20%7C%20AIML%20Engineer%20%2F%20Security&descSize=17&descAlignY=58&descColor=B7FFDB" width="100%" alt="Header Banner" />
 </p>
 
-<h3 align="center">🛡️ Cybersecurity Engineer&nbsp;&nbsp;·&nbsp;&nbsp;⚙️ DevSecOps/DevOps&nbsp;&nbsp;·&nbsp;&nbsp;💻 DSA &amp; Problem Solver&nbsp;&nbsp;·&nbsp;&nbsp;🤖 AIML Engineering&nbsp;&nbsp;·&nbsp;&nbsp;🏗️ System Design&nbsp;&nbsp;·&nbsp;&nbsp;🐧 OS Internals&nbsp;&nbsp;·&nbsp;&nbsp;📡 IoT &amp; AI Security</h3>
+<h3 align="center">🛡️ Cybersecurity Engineer&nbsp;&nbsp;·&nbsp;&nbsp;⚙️ DevSecOps/DevOps&nbsp;&nbsp;·&nbsp;&nbsp;💻 DSA &amp; Problem Solver&nbsp;&nbsp;·&nbsp;&nbsp;🤖 AIML Engineer / Security&nbsp;&nbsp;·&nbsp;&nbsp;🏗️ System Design&nbsp;&nbsp;·&nbsp;&nbsp;🐧 OS Internals&nbsp;&nbsp;·&nbsp;&nbsp;📡 IoT &amp; AI Security</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=780&lines=root%40amitroy%3A~%23+whoami;CEH-Certified+Ethical+Hacker+%7C+Penetration+Tester;Data+Structures+%26+Algorithms+%7C+Competitive+Programmer;System+Design+%7C+Distributed+Systems+%7C+Scalable+Architecture;OS+Internals+%7C+Linux+%26+Windows+Kernel+Enthusiast;Building+AI-Powered+SOC+%26+Threat+Detection+Tools;IoT+%26+Embedded+Security+Researcher;28%2B+Self-Taught+Programming+Languages" alt="Typing SVG" />
