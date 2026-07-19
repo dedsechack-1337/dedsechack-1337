@@ -102,6 +102,23 @@ $ uname -a && systemctl status security-mindset.service
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=FFFFFF)
 
+**DevSecOps / DevOps**
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat-square&logo=ansible&logoColor=EE0000)
+![Terraform](https://img.shields.io/badge/Terraform-000000?style=flat-square&logo=terraform&logoColor=844FBA)
+![Puppet](https://img.shields.io/badge/Puppet-000000?style=flat-square&logo=puppet&logoColor=FFAE1A)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=flat-square&logo=jenkins&logoColor=D24939)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-000000?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Helm](https://img.shields.io/badge/Helm-000000?style=flat-square&logo=helm&logoColor=0F1689)
+![Vagrant](https://img.shields.io/badge/Vagrant-000000?style=flat-square&logo=vagrant&logoColor=1868F2)
+![HashiCorp Vault](https://img.shields.io/badge/Vault-000000?style=flat-square&logo=vault&logoColor=FFEC6E)
+![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&logoColor=E6522C)
+![Grafana](https://img.shields.io/badge/Grafana-000000?style=flat-square&logo=grafana&logoColor=F46800)
+![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=009639)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-000000?style=flat-square&logo=gitlab&logoColor=FC6D26)
+![Istio](https://img.shields.io/badge/Istio-000000?style=flat-square&logo=istio&logoColor=466BB0)
+
 **DSA / System Design / OS**
 ![Algorithms](https://img.shields.io/badge/Algorithms-000000?style=flat-square&logoColor=00FF9C)
 ![Distributed_Systems](https://img.shields.io/badge/Distributed%20Systems-000000?style=flat-square&logoColor=00FF9C)
