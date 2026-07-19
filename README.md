@@ -9,7 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://img.magnific.com/premium-vector/linkedin-logo_578229-227.jpg?semt=ais_hybrid&w=740&q=80" width="28" height="28" alt="LinkedIn logo" /></a>
   <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="https://leetcode.com/u/amitroy1337"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://youtube.com/@arproduction8597"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
@@ -142,6 +141,11 @@ $ uname -a && systemctl status security-mindset.service
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dedsechack-1337&show_icons=true&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedsechack-1337&layout=compact&theme=chartreuse-dark&hide_border=true&cache_seconds=86400" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dedsechack-1337&theme=highcontrast&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
