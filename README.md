@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://linkedin.com/in/dedsechaack1337"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin-white&logoColor=0A66C2" /></a>
   <a href="https://leetcode.com/u/amitroy1337"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" /></a>
   <a href="https://youtube.com/@arproduction8597"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=FF0000" /></a>
   <a href="mailto:amitroy9091988431@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
@@ -83,7 +83,12 @@ $ uname -a && systemctl status security-mindset.service
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,c,cpp,js,ts,rust,kotlin,bash,powershell,html,css,react,nodejs,nextjs,vuejs,vite,docker,kubernetes,linux,windows,git,githubactions,arduino,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,lua,zig,swift,ruby,dart,r,nim,php,perl,go,c,cpp,js,ts,rust,kotlin,bash,powershell,html,css,react,nodejs,nextjs,vuejs,vite,docker,kubernetes,linux,windows,git,githubactions,arduino,raspberrypi&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Lisp-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRkY5QyI+CjxwYXRoIGQ9Ik04LjUgMyA1IDEybDMuNSA5aDIuMkw3LjMgMTJsMy40LTlIOC41em03IDAtMy40IDkgMy40IDloMi4yTDE4LjcgMTIgMTUuNSAzaC0yeiIvPgo8L3N2Zz4K&logoColor=00FF9C" />
+  <img src="https://img.shields.io/badge/Assembly-000000?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRkY5QyI+CjxwYXRoIGQ9Ik0zIDRoMnYySDNWNHptNCAwaDJ2Mkg3VjR6bTQgMGgxMHYySDExVjR6TTMgOGgxNHYySDNWOHptMTYgMGgydjJoLTJWOHpNMyAxMmgydjJIM3YtMnptNCAwaDEwdjJIN3YtMnptMTIgMGgydjJoLTJ2LTJ6TTMgMTZoMTh2Mkgzdi0yek0zIDIwaDZ2Mkgzdi0yem04IDBoMTB2MkgxMXYtMnoiLz4KPC9zdmc+Cg==&logoColor=00FF9C" />
 </p>
 
 **Security & Offensive Tools**
