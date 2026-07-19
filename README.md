@@ -119,7 +119,7 @@ $ uname -a && systemctl status security-mindset.service
 ![Palo Alto Networks](https://img.shields.io/badge/Palo%20Alto%20Networks-000000?style=flat-square&logo=paloaltonetworks&logoColor=F04E23)
 ![Fortinet](https://img.shields.io/badge/Fortinet-000000?style=flat-square&logo=fortinet&logoColor=EE3124)
 
-**AI / ML**
+**AI/ML**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FF6F00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![Keras](https://img.shields.io/badge/Keras-000000?style=flat-square&logo=keras&logoColor=D00000)
@@ -132,6 +132,20 @@ $ uname -a && systemctl status security-mindset.service
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square&logo=huggingface&logoColor=FFD21E)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=1C3C3C)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=FFFFFF)
+
+**AI/ML Security**
+![OWASP LLM Top 10](https://img.shields.io/badge/OWASP%20LLM%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=FFFFFF)
+![MITRE ATLAS](https://img.shields.io/badge/MITRE%20ATLAS-000000?style=flat-square)
+![NVIDIA NeMo Guardrails](https://img.shields.io/badge/NeMo%20Guardrails-000000?style=flat-square&logo=nvidia&logoColor=76B900)
+![Garak](https://img.shields.io/badge/Garak-000000?style=flat-square)
+![PyRIT](https://img.shields.io/badge/PyRIT-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAflBMVEUBAAApISNYKRpiXmCemp3vmVdnWCyYaFieIyMsSV5raWmZWiX4aGbZ3d2qkWl0j4ktGRhqbRBnX1X3ERL6oU1zc43rY1jxkyb7zVb///8wOkVJMijXZRgicqoR7v9WMiwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACge4SBAAAAIHRSTlMA+v39/vz1/v7+D/4N/vv+qwphCB3+7vb+Af6f//4CHTGOtzsAAAEySURBVHjaZVJZloMwDJPtLISwFChLgU7vf8uxodu8UcgHFrKCHOCNm+6qBEp8YQAe2PAfFQIRBVQd0H80DyBIW7cUJzkK3as+qEBqWTmKQwxPZsAwTbRKSkRCVKM4ia6qpkkduChYfUiQ1aYzX3irxxhdVAJFeJ6n8vrOTpxzIsR7TuGk4FXRCpMIrzLP+z0dZ6tmD98IRdOIyLyne2PE1Su0UNdOH4k5p+SvL0KZUT0g5ndvZlP0Qg4+M/MIYe1JCYspQNY6RmZxgQ3j4o9DiSNXR6vpDjlLs6iBTWGVOrH1UqZZGvEHUaInJ8kx6coaSBvew6BRbYg1LI0LbYsfXTbJEvbTrBkWO7eW9+0QKEMYNV1NjI9//nm2skn2F80VNt3zVnyw8cWwbf15N77x58tfZnkMcjIKufcAAAAASUVORK5CYII=)
+![Giskard](https://img.shields.io/badge/Giskard-000000?style=flat-square)
+![Promptfoo](https://img.shields.io/badge/Promptfoo-000000?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAMAAADXqc3KAAAAflBMVEWfGREqCAzn4uKgoaEHBQUTDxLwKQVrEBBhXl6bXlsiFRL///9/AAD/VTT/AABjcWPMqa50PkZNTU3xblVGQD6qAACZNUeeRDSqVVW2w8bMfoj/kn3ev8MAAABNBgyPCRoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD8JNtXAAAAIHRSTlP+9P78ZRv9+Or+nAEC/gEE/f6u/f8D//4D/////QH+/dylCFgAAAEESURBVHjabZFZdgQhCEURUNSuqdOZE3X/uwxoasg54aMKuQxPhHK1l9MF+/jh8/h7fwC1W2EnkP37tYJZc1kAQpB+GuBWIiJFB00BZNKDP0BEcmq1OvVO8IQ9WCuoOUe/YDVQpTWboc0UHMMxWr5SUQXyEbXLkBtF0z9fIXzNcwiR7WK9osK2aXKaAWZ8hOyXDrxr3wgiiPgAIJoDjxkr3xFbQ3SEkRIlKaNiKjluDQxQTInisZKJVZN20qupjNRFdbAU11p195TEKnLx53aVSIUA4e3Zqdz1AN5qqm2Red/VScTipeTebAdGwOKazdcXNAIan/68+U7yGb8Cu1H5HywX/wc1/SkBDL/x9wAAAABJRU5ErkJggg==)
+![Microsoft Presidio](https://img.shields.io/badge/Presidio-000000?style=flat-square)
+![Adversarial Robustness Toolbox](https://img.shields.io/badge/ART%20(Adversarial%20Robustness%20Toolbox)-000000?style=flat-square)
+![HiddenLayer](https://img.shields.io/badge/HiddenLayer-000000?style=flat-square)
+![Lakera](https://img.shields.io/badge/Lakera-000000?style=flat-square)
+![Snyk](https://img.shields.io/badge/Snyk%20(AI%20Supply%20Chain)-000000?style=flat-square&logo=snyk&logoColor=4C4A73)
 
 **DevSecOps / DevOps**
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=2496ED)
