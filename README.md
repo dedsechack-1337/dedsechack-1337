@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=56&fontColor=00FF9C&fontAlignY=36&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20SOC%20Analyst%20%7C%20DevSecOps%20and%20DevOps%20%7C%20DSA%20%7C%20AIML%20Engineer%20%2F%20Security%20%7C%20IoT%20Security&descSize=14&descAlignY=58&descColor=B7FFDB" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0B3D2E,70:1B4332,100:52B788&height=210&section=header&text=Amit%20Roy&fontSize=48&fontColor=00FF9C&fontAlignY=34&animation=fadeIn&desc=Cybersecurity%20Engineer%20%7C%20Penetration%20Tester%20%7C%20SOC%20Analyst%20%7C%20DevSecOps%20and%20DevOps%20%7C%20DSA%20%7C%20AIML%20Engineer%20%2F%20Security%20%7C%20IoT%20Security%20%7C%20Android%20Security&descSize=12&descAlignY=60&descColor=B7FFDB" width="100%" alt="Header Banner" />
 </p>
 
-<h3 align="center">🛡️ Cybersecurity Engineer&nbsp;&nbsp;·&nbsp;&nbsp;🕵️ SOC Analyst&nbsp;&nbsp;·&nbsp;&nbsp;⚙️ DevSecOps/DevOps&nbsp;&nbsp;·&nbsp;&nbsp;💻 DSA &amp; Problem Solver&nbsp;&nbsp;·&nbsp;&nbsp;🤖 AIML Engineer / Security&nbsp;&nbsp;·&nbsp;&nbsp;🏗️ System Design&nbsp;&nbsp;·&nbsp;&nbsp;🐧 OS Internals&nbsp;&nbsp;·&nbsp;&nbsp;📡 IoT &amp; AI Security</h3>
+<h3 align="center">🛡️ Cybersecurity Engineer&nbsp;&nbsp;·&nbsp;&nbsp;🕵️ SOC Analyst&nbsp;&nbsp;·&nbsp;&nbsp;⚙️ DevSecOps/DevOps&nbsp;&nbsp;·&nbsp;&nbsp;💻 DSA &amp; Problem Solver&nbsp;&nbsp;·&nbsp;&nbsp;🤖 AIML Engineer / Security&nbsp;&nbsp;·&nbsp;&nbsp;🏗️ System Design&nbsp;&nbsp;·&nbsp;&nbsp;🐧 OS Internals&nbsp;&nbsp;·&nbsp;&nbsp;📡 IoT &amp; AI Security&nbsp;&nbsp;·&nbsp;&nbsp;📱 Android &amp; Security</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=780&lines=root%40amitroy%3A~%23+whoami;CEH-Certified+Ethical+Hacker+%7C+Penetration+Tester;Data+Structures+%26+Algorithms+%7C+Competitive+Programmer;System+Design+%7C+Distributed+Systems+%7C+Scalable+Architecture;OS+Internals+%7C+Linux+%26+Windows+Kernel+Enthusiast;Building+AI-Powered+SOC+%26+Threat+Detection+Tools;IoT+%26+Embedded+Security+Researcher;28%2B+Self-Taught+Programming+Languages" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF9C&center=true&vCenter=true&width=780&lines=root%40amitroy%3A~%23+whoami;CEH-Certified+Ethical+Hacker+%7C+Penetration+Tester;Data+Structures+%26+Algorithms+%7C+Competitive+Programmer;System+Design+%7C+Distributed+Systems+%7C+Scalable+Architecture;OS+Internals+%7C+Linux+%26+Windows+Kernel+Enthusiast;Building+AI-Powered+SOC+%26+Threat+Detection+Tools;IoT+%26+Embedded+Security+Researcher;Android+App+%26+Mobile+Security+Researcher;28%2B+Self-Taught+Programming+Languages" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,16 +23,17 @@
 $ cat about_me.txt
 ```
 
-CEH-certified Ethical Hacker and Cybersecurity Engineer with 1+ years of hands-on experience across **Web Application & Network Penetration Testing**, **reverse engineering**, **malware analysis**, **AI-driven security tooling**, and **IoT/embedded systems security** — backed by a strong foundation in **Data Structures & Algorithms**, **System Design**, and **OS Internals**.
+CEH-certified Ethical Hacker and Cybersecurity Engineer with 1+ years of hands-on experience across **Web Application & Network Penetration Testing**, **reverse engineering**, **malware analysis**, **AI-driven security tooling**, **IoT/embedded systems security**, and **Android/mobile application security** — backed by a strong foundation in **Data Structures & Algorithms**, **System Design**, and **OS Internals**.
 
 - 🔭 Currently pursuing **BSc (Hons) — Advanced Networking & Cyber Security** at Brainware University
 - 🧠 Self-taught polyglot programmer in **28+ languages**, with a strong mathematical foundation in cryptography, algorithms, and AI/ML
 - 🧮 Consistently solving **DSA problems** across arrays, graphs, trees, DP, and greedy — sharpening the same analytical mindset used for exploit development and vulnerability triage
 - 🏗️ Comfortable designing **scalable, fault-tolerant, secure-by-design systems** — from SIEM pipelines to distributed detection engines
 - 🐧 Deep interest in **OS Internals** — process scheduling, memory management, syscalls, and the Linux/Windows kernel attack surface
+- 📱 Growing focus on **Android & mobile security** — APK reverse engineering, static/dynamic analysis, and secure app architecture
 - 🛠️ Builder of open-source security tools — SIEM, SOC copilots, NIDS, phishing detection, malware classification AI
 - 🏆 First-Prize CTF winner — Indian Cyber Security Solutions (2022)
-- 🌱 Currently exploring: LLM-powered SOC automation, RAG-based threat intelligence, and IoT firmware exploitation
+- 🌱 Currently exploring: LLM-powered SOC automation, RAG-based threat intelligence, IoT firmware exploitation, and Android app pentesting
 - ⚡ Fun fact: I also produce EDM music and build custom hardware in my spare time
 
 ---
@@ -56,6 +57,25 @@ I treat Data Structures & Algorithms as the backbone of good security engineerin
 - Hashing & string matching → building YARA/Sigma rule engines and malware signature detection
 - Tree structures → parsing ASTs for static code/malware analysis
 - Greedy/DP → optimizing anomaly-detection thresholds in `PhoenixSIEM`
+
+---
+
+<details>
+<summary><h3>📱 Android & Security (click to expand)</h3></summary>
+
+```bash
+$ adb shell dumpsys package amitroy.skills | grep -i "mobile-security"
+```
+
+- **APK Reverse Engineering** — decompiling and analyzing APKs with Jadx, apktool, and Frida for static & dynamic instrumentation
+- **Android App Pentesting** — auditing apps against the **OWASP Mobile Top 10**, covering insecure storage, weak crypto, and exposed components
+- **Dynamic Analysis** — hooking runtime behavior with Frida/Objection to bypass SSL pinning, root/jailbreak detection, and inspect in-memory secrets
+- **Android Internals** — Activity/Service/Broadcast Receiver attack surfaces, intent hijacking, exported component misconfigurations, and permission model abuse
+- **Secure App Architecture** — guiding secure-by-design principles for Android apps: keystore usage, certificate pinning, and secure IPC
+- **Emulation & Tooling** — Android Studio, AVD/Genymotion emulators, ADB workflows, and Burp Suite for intercepting mobile traffic
+- **Malware on Android** — analyzing malicious APKs and classifying behavior patterns (permissions abuse, C2 communication, obfuscation techniques)
+
+</details>
 
 ---
 
@@ -83,7 +103,7 @@ $ uname -a && systemctl status security-mindset.service
 ### 🧰 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,lua,zig,swift,ruby,dart,r,nim,php,perl,go,c,cpp,js,ts,rust,kotlin,bash,powershell,html,css,react,nodejs,nextjs,vuejs,vite,docker,kubernetes,linux,windows,git,githubactions,arduino,raspberrypi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,lua,zig,swift,ruby,dart,r,nim,php,perl,go,c,cpp,js,ts,rust,kotlin,bash,powershell,html,css,react,nodejs,nextjs,vuejs,vite,docker,kubernetes,linux,windows,git,githubactions,arduino,raspberrypi,androidstudio&theme=dark" />
 </p>
 
 <p align="center">
@@ -104,6 +124,16 @@ $ uname -a && systemctl status security-mindset.service
 ![Snort](https://img.shields.io/badge/Snort-000000?style=flat-square&logo=snort&logoColor=F6A7AA)
 ![Elastic (ELK Stack)](https://img.shields.io/badge/Elastic%20%28ELK%29-000000?style=flat-square&logo=elastic&logoColor=005571)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=FFFFFF)
+
+**Android & Mobile Security**
+![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=flat-square&logo=androidstudio&logoColor=3DDC84)
+![Frida](https://img.shields.io/badge/Frida-000000?style=flat-square&logo=frida&logoColor=A2CA42)
+![ADB](https://img.shields.io/badge/ADB-000000?style=flat-square&logo=android&logoColor=3DDC84)
+![Jadx](https://img.shields.io/badge/Jadx-000000?style=flat-square)
+![Apktool](https://img.shields.io/badge/Apktool-000000?style=flat-square)
+![MobSF](https://img.shields.io/badge/MobSF-000000?style=flat-square)
+![Genymotion](https://img.shields.io/badge/Genymotion-000000?style=flat-square)
+![OWASP Mobile Top 10](https://img.shields.io/badge/OWASP%20Mobile%20Top%2010-000000?style=flat-square&logo=owasp&logoColor=FFFFFF)
 
 **Cloud Security**
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NDAgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjcuMiBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyNCBGb250aWNvbnMsIEluYy4gLS0+PHBhdGggZmlsbD0iI0ZGOTkwMCIgZD0iTTE4MC40MSAyMDMuMDFjLS43MiAyMi42NSAxMC42IDMyLjY4IDEwLjg4IDM5LjA1YTguMTY0IDguMTY0IDAgMCAxLTQuMSA2LjI3bC0xMi44IDguOTZhMTAuNjYgMTAuNjYgMCAwIDEtNS42MyAxLjkyYy0uNDMtLjAyLTguMTkgMS44My0yMC40OC0yNS42MWE3OC42MDggNzguNjA4IDAgMCAxLTYyLjYxIDI5LjQ1Yy0xNi4yOC44OS02MC40LTkuMjQtNTguMTMtNTYuMjEtMS41OS0zOC4yOCAzNC4wNi02Mi4wNiA3MC45My02MC4wNSA3LjEuMDIgMjEuNi4zNyA0Ni45OSA2LjI3di0xNS42MmMyLjY5LTI2LjQ2LTE0LjctNDYuOTktNDQuODEtNDMuOTEtMi40LjAxLTE5LjQtLjUtNDUuODQgMTAuMTEtNy4zNiAzLjM4LTguMyAyLjgyLTEwLjc1IDIuODItNy40MSAwLTQuMzYtMjEuNDgtMi45NC0yNC4yIDUuMjEtNi40IDM1Ljg2LTE4LjM1IDY1Ljk0LTE4LjE4YTc2Ljg1NyA3Ni44NTcgMCAwIDEgNTUuNjkgMTcuMjggNzAuMjg1IDcwLjI4NSAwIDAgMSAxNy42NyA1Mi4zNmwtLjAxIDY5LjI5ek05My45OSAyMzUuNGMzMi40My0uNDcgNDYuMTYtMTkuOTcgNDkuMjktMzAuNDcgMi40Ni0xMC4wNSAyLjA1LTE2LjQxIDIuMDUtMjcuNC05LjY3LTIuMzItMjMuNTktNC44NS0zOS41Ni00Ljg3LTE1LjE1LTEuMTQtNDIuODIgNS42My00MS43NCAzMi4yNi0xLjI0IDE2Ljc5IDExLjEyIDMxLjQgMjkuOTYgMzAuNDh6bTE3MC45MiAyMy4wNWMtNy44Ni43Mi0xMS41Mi00Ljg2LTEyLjY4LTEwLjM3bC00OS44LTE2NC42NWMtLjk3LTIuNzgtMS42MS01LjY1LTEuOTItOC41OGE0LjYxIDQuNjEgMCAwIDEgMy44Ni01LjI1Yy4yNC0uMDQtMi4xMyAwIDIyLjI1IDAgOC43OC0uODggMTEuNjQgNi4wMyAxMi41NSAxMC4zN2wzNS43MiAxNDAuODMgMzMuMTYtMTQwLjgzYy41My0zLjIyIDIuOTQtMTEuMDcgMTIuOC0xMC4yNGgxNy4xNmMyLjE3LS4xOCAxMS4xMS0uNSAxMi42OCAxMC4zN2wzMy40MiAxNDIuNjNMNDIwLjk4IDgwLjFjLjQ4LTIuMTggMi43Mi0xMS4zNyAxMi42OC0xMC4zN2gxOS43MmMuODUtLjEzIDYuMTUtLjgxIDUuMjUgOC41OC0uNDMgMS44NSAzLjQxLTEwLjY2LTUyLjc1IDE2OS45LTEuMTUgNS41MS00LjgyIDExLjA5LTEyLjY4IDEwLjM3aC0xOC42OWMtMTAuOTQgMS4xNS0xMi41MS05LjY2LTEyLjY4LTEwLjc1TDMyOC42NyAxMTAuN2wtMzIuNzggMTM2Ljk5Yy0uMTYgMS4wOS0xLjczIDExLjktMTIuNjggMTAuNzVoLTE4LjN6bTI3My40OCA1LjYzYy01Ljg4LjAxLTMzLjkyLS4zLTU3LjM2LTEyLjI5YTEyLjgwMiAxMi44MDIgMCAwIDEtNy44MS0xMS45MXYtMTAuNzVjMC04LjQ1IDYuMi02LjkgOC44My01Ljg5IDEwLjA0IDQuMDYgMTYuNDggNy4xNCAyOC44MSA5LjYgMzYuNjUgNy41MyA1Mi43Ny0yLjMgNTYuNzItNC40OCAxMy4xNS03LjgxIDE0LjE5LTI1LjY4IDUuMjUtMzQuOTUtMTAuNDgtOC43OS0xNS40OC05LjEyLTUzLjEzLTIxLTQuNjQtMS4yOS00My43LTEzLjYxLTQzLjc5LTUyLjM2LS42MS0yOC4yNCAyNS4wNS01Ni4xOCA2OS41Mi01NS45NSAxMi42Ny0uMDEgNDYuNDMgNC4xMyA1NS41NyAxNS42MiAxLjM1IDIuMDkgMi4wMiA0LjU1IDEuOTIgNy4wNHYxMC4xMWMwIDQuNDQtMS42MiA2LjY2LTQuODcgNi42Ni03LjcxLS44Ni0yMS4zOS0xMS4xNy00OS4xNi0xMC43NS02Ljg5LS4zNi0zOS44OS45MS0zOC40MSAyNC45Ny0uNDMgMTguOTYgMjYuNjEgMjYuMDcgMjkuNyAyNi44OSAzNi40NiAxMC45NyA0OC42NSAxMi43OSA2My4xMiAyOS41OCAxNy4xNCAyMi4yNSA3LjkgNDguMyA0LjM1IDU1LjQ0LTE5LjA4IDM3LjQ5LTY4LjQyIDM0LjQ0LTY5LjI2IDM0LjQyem00MC4yIDEwNC44NmMtNzAuMDMgNTEuNzItMTcxLjY5IDc5LjI1LTI1OC40OSA3OS4yNUE0NjkuMTI3IDQ2OS4xMjcgMCAwIDEgMi44MyAzMjcuNDZjLTYuNTMtNS44OS0uNzctMTMuOTYgNy4xNy05LjQ3YTYzNy4zNyA2MzcuMzcgMCAwIDAgMzE2Ljg4IDg0LjEyIDYzMC4yMiA2MzAuMjIgMCAwIDAgMjQxLjU5LTQ5LjU1YzExLjc4LTUgMjEuNzcgNy44IDEwLjEyIDE2LjM4em0yOS4xOS0zMy4yOWMtOC45Ni0xMS41Mi01OS4yOC01LjM4LTgxLjgxLTIuNjktNi43OS43Ny03Ljk0LTUuMTItMS43OS05LjQ3IDQwLjA3LTI4LjE3IDEwNS44OC0yMC4xIDExMy40NC0xMC42MyA3LjU1IDkuNDctMi4wNSA3NS40MS0zOS41NiAxMDYuOTEtNS43NiA0Ljg3LTExLjI3IDIuMy04LjcxLTQuMSA4LjQ0LTIxLjI1IDI3LjM5LTY4LjQ5IDE4LjQzLTgwLjAyeiIvPjwvc3ZnPg==)
@@ -184,7 +214,7 @@ $ uname -a && systemctl status security-mindset.service
 ![Debian](https://img.shields.io/badge/Debian-000000?style=flat-square&logo=debian&logoColor=A81D33)
 ![Arch Linux](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=archlinux&logoColor=1793D1)
 
-**Domains:** Web App Pentesting (OWASP Top 10) · Network Pentesting · Reverse Engineering · Malware Analysis · Digital Forensics · SOC Operations · Cryptography · Vulnerability Analysis · Social Engineering & OSINT · AI Security · IoT Security · DevSecOps
+**Domains:** Web App Pentesting (OWASP Top 10) · Network Pentesting · Reverse Engineering · Malware Analysis · Digital Forensics · SOC Operations · Cryptography · Vulnerability Analysis · Social Engineering & OSINT · AI Security · IoT Security · Android & Mobile Security · DevSecOps
 
 **Architecture & CS Fundamentals:** Cybersecurity System Architecture · System Design · Network Architecture · Zero-Trust Design · OS Internals (Linux & Windows) · Secure SDLC · DSA & Algorithm Design · Mathematics (Cryptography, AI/ML, DSA)
 
