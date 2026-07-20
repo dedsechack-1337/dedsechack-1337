@@ -61,7 +61,7 @@ I treat Data Structures & Algorithms as the backbone of good security engineerin
 ---
 
 <details>
-<summary><h3>📱 Android & Security (click to expand)</h3></summary>
+<summary><h3>📱 Android Security (click to expand)</h3></summary>
 
 ```bash
 $ adb shell dumpsys package amitroy.skills | grep -i "mobile-security"
