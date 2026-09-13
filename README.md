@@ -270,7 +270,7 @@ $ uname -a && systemctl status security-mindset.service
 - 🎯 BrainCon 2024 — TechFusion, Brainware University
 - 🛡️ Brainware-CTF (CyberYami / BCC) — Certificate of Appreciation
 - 🔐 TryHackMe Advent of Cyber 2025 — 24 challenges completed
-- 💻 33 public repositories · 5+ actively maintained open-source security tools
+- 💻 50+ public repositories · 5+ actively maintained open-source security tools
 - 🧮 Active problem-solver on LeetCode — building algorithmic muscle daily
 - 🌍 Self-taught in 28+ programming languages
 
