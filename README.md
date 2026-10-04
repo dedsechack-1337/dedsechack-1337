@@ -258,8 +258,8 @@ $ uname -a && systemctl status security-mindset.service
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedsechack-1337&theme=react-dark&hide_border=true&bg_color=000000&color=00FF9C&line=52B788&point=B7FFDB" />
-</p> 
+  <img src="https://raw.githubusercontent.com/dedsechack-1337/dedsechack-1337/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
+</p>
 
 ---
 
