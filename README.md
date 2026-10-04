@@ -256,6 +256,9 @@ $ uname -a && systemctl status security-mindset.service
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=dedsechack-1337&theme=highcontrast&hide_border=true&background=000000&stroke=00FF9C&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C" />
 </p>
+<p align="center">
+  <img src="https://fabianocouto-activity-graph.vercel.app/graph?username=dedsechack-1337&theme=react-dark&hide_border=true&bg_color=000000&color=00FF9C&line=52B788&point=B7FFDB" alt="Activity Graph" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dedsechack-1337/dedsechack-1337/output/github-snake-dark.svg" alt="Snake animation" width="100%" />
